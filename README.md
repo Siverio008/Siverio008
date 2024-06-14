@@ -2,7 +2,8 @@
 
 Meu nome é Guilherme Silvério
 
--Estou estudando pelo Alura
+-Estou estudando pelo Alura [Alura](https://www.alura.com.br)
+
 
 -Desenvolvendo na linguagem JavaSript
 
@@ -13,4 +14,5 @@ Voce pode entrar em cotato comigo📫
 0001100709095sp@al.educacao.sp.gov.br
 
 
-https://media1.tenor.com/m/_umoA_JMjIEAAAAd/magic7od.gif
+![](https://media1.tenor.com/m/_umoA_JMjIEAAAAd/magic7od.gif)
+
